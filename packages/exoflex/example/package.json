@@ -25,9 +25,9 @@
     "react-navigation-drawer": "2.4.13"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "7.8.3",
-    "@babel/plugin-proposal-object-rest-spread": "7.10.0",
-    "@babel/preset-typescript": "7.9.0",
+    "@babel/plugin-proposal-class-properties": "7.10.4",
+    "@babel/plugin-proposal-object-rest-spread": "7.10.4",
+    "@babel/preset-typescript": "7.10.4",
     "@expo/webpack-config": "0.11.8",
     "@react-native-community/datetimepicker": "2.1.0",
     "@types/react": "16.9.41",
